@@ -1,0 +1,29 @@
+{
+  "name": "comlog-system-monitor-filecount",
+  "version": "1.0.0",
+  "description": "Count file in specifed folder and callback if count overflow a max or min limit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "COMLOG GmbH <bernhard.duenow@comlog.org> (http://www.comlog.org/)",
+  "license": "MIT",
+  "dependencies": {
+    "comlog-event-handler": ">=1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comlog-gmbh/comlog-system-monitor-filecount.git"
+  },
+  "keywords": [
+    "Folder",
+    "Directory",
+    "watcher",
+    "count"
+  ],
+  "bugs": {
+    "url": "https://github.com/comlog-gmbh/comlog-system-monitor-filecount/issues"
+  },
+  "homepage": "https://github.com/comlog-gmbh/comlog-system-monitor-filecount#readme"
+}
