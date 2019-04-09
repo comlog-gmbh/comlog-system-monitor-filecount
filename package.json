@@ -1,6 +1,6 @@
 {
   "name": "comlog-system-monitor-filecount",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Count file in specifed folder and callback if count overflow a max or min limit",
   "main": "index.js",
   "scripts": {
